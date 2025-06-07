@@ -33,6 +33,24 @@ Portal🌀 allows players to teleport to a location.
 - Place **.hyp** `inWorld`
 - Set a Portal name/destination in the inspector
 
+# Portal🌐
+
+Portal🌐 allows players to teleport to other worlds or open new tabs.
+
+## Features
+
+- onTriggerEnter() which teleports player to a **set place**
+- show/hide :
+	- portal name
+	- portal visibility 
+	- portal rim
+- Tweak portal rim speed / emissive intensity
+
+## How to use
+
+- Place **.hyp** `inWorld`
+- Set a Portal name/destination in the inspector
+
 # Sphere🌀
 
 Sphere🌀 allows players to collide with a volume and teleport to a location.
