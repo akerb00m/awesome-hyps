@@ -12,12 +12,12 @@ using singals
 
 ## How to use
 
-- Place .hyp `inWorld`
+- Place **.hyp** `inWorld`
 - Set a signal in the inspector
 
-# Spherea 🔊🎶
+# Sphere🔊
 
-Spherea 🔊🎶 allows players to collide with a volume and hear spatial audio.
+Sphere🔊 allows players to collide with a volume and hear spatial audio.
 Can be used to create a 3D audio environment.
 
 ## Features
@@ -27,5 +27,5 @@ Can be used to create a 3D audio environment.
 
 ## How to use
 
-- Place .hyp `inWorld`
+- Place **.hyp** `inWorld`
 - Set an .mp3 in the inspector
